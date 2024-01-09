@@ -1,0 +1,10 @@
+.item{
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.39);
+    border-radius: 4px;
+    padding: 6px;
+    margin: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

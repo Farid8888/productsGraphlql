@@ -1,0 +1,11 @@
+.gridMain{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 20px;
+}
+
+.spinner{
+    position: fixed;
+    top: 50%;
+    left:50%
+}
